@@ -1,0 +1,87 @@
+
+
+.section-ingresse{
+    line-height: 1.1;
+}
+
+.bg-ingresse{
+    background-color: #F7F7F7;
+    padding: 10px;
+}
+
+.section-ingresse h2{
+    font-size: 2em;
+    color: #B00F14;
+    font-weight: bold;
+    text-align: center;
+}
+.section-ingresse p{
+    text-align: center;
+}
+
+.accordion-item{
+    text-align: start;
+}
+
+.accordion-item strong{
+    color: #B00F14;
+}
+.section-ingresse p{
+    color: #3D4045;
+    font-size: 1.4em;
+}
+
+.call-to-action{
+    text-align: center !important;
+}
+
+.card{
+    background-color: #B00F14;
+    color: #fff;
+    padding: 45px 45px 45px 45px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.card-body i{
+    font-size: 4em;
+}
+
+.card-body h5{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1em;
+}
+
+.card-body p{
+    color: #fff;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 516px) {
+    .slide{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .slide-mobile{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .slide-mobile{
+        display: none;
+    }
+}
+
+@media only screen and (width: 1920px) {
+    .slide-mobile{
+        display: none;
+    }
+}
+
+
